@@ -110,7 +110,7 @@ body {
   z-index: 11;
 }
 
-/*.call-text {
+.call-text {
   background-color: #fff;
   width: 800px;
   height: 450px;
@@ -119,7 +119,7 @@ body {
   padding: 10%;
   box-sizing: border-box;
   text-align: center;
-  h1 {
+/*  h1 {
     font-size: 42px;
     margin-top: 10%;
     color: #696a86;
