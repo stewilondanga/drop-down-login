@@ -27,7 +27,7 @@ body {
   overflow: hidden;
 }
 
-/*.login-text {
+.login-text {
   width: 800px;
   height: 450px;
   background: linear-gradient(to left, #ab68ca, #de67a3);
@@ -39,7 +39,7 @@ body {
   z-index: 11;
 }
 
-.text {
+/*.text {
   margin-left: 20px;
   color: #fff;
   display: none;
