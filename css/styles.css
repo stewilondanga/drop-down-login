@@ -142,11 +142,11 @@ body {
   }
 }
 
-/*.show-hide {
+.show-hide {
   display: block;
 }
 
-.expand {
+/*.expand {
   transform: translateY(300px);
 }
 
