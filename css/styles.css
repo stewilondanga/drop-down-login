@@ -73,13 +73,13 @@ body {
   input[type=text] {
     margin-top: 60px;
   }
-  /*button {
+  button {
     margin-top: 60px;
     height: 40px;
     width: 140px;
     outline: none;
   }
-  .login-btn {
+  /*.login-btn {
     background: #fff;
     border: none;
     border-radius: 2px;
