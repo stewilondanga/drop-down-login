@@ -18,7 +18,7 @@ body {
   height: 1.5em;
 }
 
-/*.wrapper {
+.wrapper {
   width: 800px;
   height: 600px;
   position: relative;
@@ -27,7 +27,7 @@ body {
   overflow: hidden;
 }
 
-.login-text {
+/*.login-text {
   width: 800px;
   height: 450px;
   background: linear-gradient(to left, #ab68ca, #de67a3);
