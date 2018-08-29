@@ -7,10 +7,10 @@ var navigate = (function() {
   });
 })();
 
-/*var cta = document.querySelector(".cta");
+var cta = document.querySelector(".cta");
 var check = 0;
 
-cta.addEventListener('click', function(e){
+/*cta.addEventListener('click', function(e){
     var text = e.target.nextElementSibling;
     var loginText = e.target.parentElement;
     text.classList.toggle('show-hide');
