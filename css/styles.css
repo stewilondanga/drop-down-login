@@ -79,13 +79,13 @@ body {
     width: 140px;
     outline: none;
   }
-  /*.login-btn {
+  .login-btn {
     background: #fff;
     border: none;
     border-radius: 2px;
     color: #696a86;
   }
-  .signup-btn {
+  /*.signup-btn {
     background: transparent;
     border: 2px solid #fff;
     ;
