@@ -18,11 +18,9 @@ cta.addEventListener('click', function(e) {
       if (check == 0) {
         cta.innerHTML = "<i class=\"fas fa-chevron-up\"></i>";
         check++;
-      }
-      /*          else
-                {
-                    cta.innerHTML = "<i class=\"fas fa-chevron-down\"></i>";
-                    check = 0;
-                }
-            })
-            */
+      } else {
+        /*              cta.innerHTML = "<i class=\"fas fa-chevron-down\"></i>";
+                      check = 0;
+                  }
+              })
+              */
