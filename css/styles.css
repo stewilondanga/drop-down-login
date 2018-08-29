@@ -95,7 +95,7 @@ body {
   }
 }
 
-/*.cta {
+.cta {
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -110,7 +110,7 @@ body {
   z-index: 11;
 }
 
-.call-text {
+/*.call-text {
   background-color: #fff;
   width: 800px;
   height: 450px;
