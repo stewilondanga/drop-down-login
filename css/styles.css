@@ -39,13 +39,13 @@ body {
   z-index: 11;
 }
 
-/*.text {
+.text {
   margin-left: 20px;
   color: #fff;
   display: none;
   transition: all 0.5s ease-in-out;
   transition-delay: 0.3s;
-  a, a:visited {
+/*  a, a:visited {
     font-size: 36px;
     color: #fff;
     text-decoration: none;
